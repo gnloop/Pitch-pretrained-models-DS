@@ -3,7 +3,11 @@ A checkpoint for quick pitch diffusion training on DiffSinger 2.0
 
 This pretrained model supports English and Japanese phonemes. It's not super stable yet, but it'll hopefully provide a solid base for pitch finetuning.
 
-MIRRORS:
+PLEASE credit if using the checkpoint for finetuning for a released model!
+
+PLEASE ask permission if you want to release a model with the deployed ONNX!
+
+V1 MIRRORS:
 
 Download the checkpoint at: https://mega.nz/file/7JVAADQS#mkrc5p21mZFRQ7GbkKz4Izj-wFeyH5jRnjkmFY09fto
 
